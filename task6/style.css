@@ -1,0 +1,15 @@
+.card {
+	max-width: 40%;
+	margin: 2em auto;
+}
+h1 {
+    text-align: center;
+}
+
+input {
+	transition: background-color 2s linear;
+}
+
+.info {
+	color: red;
+}

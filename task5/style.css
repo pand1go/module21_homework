@@ -1,0 +1,7 @@
+.card {
+	max-width: 40%;
+	margin: 2em auto;
+}
+h1, h3 {
+    text-align: center;
+}
